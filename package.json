@@ -1,6 +1,6 @@
 {
   "name": "@jbend/trimble-auth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "devDependencies": {
     "typescript": "^4.6.4"
   },
