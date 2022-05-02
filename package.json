@@ -9,5 +9,9 @@
   },
   "dependencies": {
     "@panva/oauth4webapi": "^0.6.1"
-  }
+  },
+  "main": "lib/index.js",
+  "files": [
+    "lib/**/*"
+  ]
 }
