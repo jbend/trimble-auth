@@ -6,5 +6,8 @@
   },
   "scripts": {
     "tsc": "tsc"
+  },
+  "dependencies": {
+    "@panva/oauth4webapi": "^0.6.1"
   }
 }
