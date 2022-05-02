@@ -11,6 +11,7 @@
     "@panva/oauth4webapi": "^0.6.1"
   },
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "files": [
     "lib/**/*"
   ]
